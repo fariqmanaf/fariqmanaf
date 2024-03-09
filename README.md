@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fariq Abdhe Manaf</h1>
 <h4>Amateur</h4>
-<h3 align="center">i have no idea how to describe myself, the important thing is i like coffee and other things who related with that</h3>
+<h3 align="center">i've no idea how to describe myself, the important thing is i like coffee and other things who related with that</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fariqmanaf&label=Profile%20views&color=0e75b6&style=flat" alt="fariqmanaf" /> </p>
 
