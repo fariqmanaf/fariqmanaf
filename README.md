@@ -1,5 +1,9 @@
 <h2 align="left">Hi, People usually call me Fariq</h2>
 
+
+<img src="https://count.getloli.com/get/@:name" alt=":name" />
+
+
 ###
 
 <div align="left">
@@ -30,17 +34,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fariqmanaf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/fariqmanaf/fariqmanaf/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <a href="https://open.spotify.com/user/Fariq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Fariq&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=mb8pbzzywag6bt73p76nj7tpp" alt="Spotify recently played"  />
   </a>
 </div>
 
