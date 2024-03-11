@@ -6,7 +6,6 @@
 
 - ⚡ Fun fact **lebih enak kopken atau sbux?**
 
-https://count.getloli.com/get/@:fariqmanaf
 <img src="https://count.getloli.com/get/@:fariqmanaf" alt=":fariqmanaf" />
 ![:name](https://count.getloli.com/get/@:name)
 
