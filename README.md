@@ -4,7 +4,7 @@
 * 🧠  I'm learning How To Living Joy
 * ⚡  Kopken kopinya enak tapi quotes nya alay
 
-<img src="https://count.getloli.com/get/@:name" alt=":name" />
+<img src="https://count.getloli.com/get/@:fariqmanaf" alt=":fariqmanaf" />
 
 
 ###
