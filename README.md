@@ -1,11 +1,8 @@
-<h2 align="left">Hi, People usually call me Fariq</h2>
+<h2 align="left">Hi, People usually call me Fariq👋</h2>
 <h3>Amateur, Interesting in coffee and other things who related with that</h3>
 
-* 🧠  I'm learning How To Living Joy
-* ⚡  Kopken kopinya enak tapi quotes nya alay
-
-<img src="https://count.getloli.com/get/@:fariqmanaf" alt=":fariqmanaf" />
-
+* 🧠  I'm learning how to doing nothing
+* ⚡  coffee enthusiast
 
 ###
 
