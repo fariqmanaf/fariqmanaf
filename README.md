@@ -36,7 +36,9 @@
 
 
 <div align="center">
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31cgzqa5s7sluopgiuzpitje7v5e&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31cgzqa5s7sluopgiuzpitje7v5e&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
+  <a>
+    <img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31cgzqa5s7sluopgiuzpitje7v5e&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31cgzqa5s7sluopgiuzpitje7v5e&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]">
+  </a>
 </div>
 
 ###
